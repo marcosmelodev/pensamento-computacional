@@ -1,6 +1,6 @@
 #  Repositório para exercícios da matéria Pensamento computacional
 
-##  Problema
+##  Problema - Rotina para ir a faculdade
 
 Definir qual horário sair de casa para ir à faculdade, considerando trabalho em escala 3x3 e fatores externos.
 
@@ -10,9 +10,9 @@ Definir qual horário sair de casa para ir à faculdade, considerando trabalho e
 
 *  Verificar se é dia de trabalho ou folga
 
-*  Definir horário que precisa acordar
+*  Definir horário que preciso acordar
 
-*  Tempo para se arrumar e sair
+*  Tempo para me arrumar e sair
   
 
 ### Transporte
@@ -59,9 +59,5 @@ Definir qual horário sair de casa para ir à faculdade, considerando trabalho e
 
 *  Condições externas
 
-**Informações não essenciais:**
 
-*  Roupa
-
-*  Qual disciplina será ministrada
 

@@ -1,4 +1,4 @@
-#  Repossitório para exercícios da matéria Pensamento computacional
+#  Repositório para exercícios da matéria Pensamento computacional
 
 ##  Problema
 

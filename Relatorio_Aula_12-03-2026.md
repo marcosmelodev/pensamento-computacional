@@ -47,10 +47,3 @@ O pensamento computacional contribui para a formação acadêmica, possibilitand
 ## 7. Conclusão  
 O pensamento computacional se mostrou um elemento essencial na formação universitária, não apenas para estudantes da área de tecnologia. É notável que as técnicas aprendidas com o pensamento computacional são benéficas para todas as áreas, sejam acadêmicas ou profissionais. Com as novas exigências do mercado e o surgimento de novas tecnologias, habilidades como a resolução de problemas complexos têm se tornado cada vez mais essenciais tanto para profissionais experientes quanto para novos profissionais. O pensamento computacional prepara os indivíduos para essas novas demandas do mercado.  
 
----
-
-## Orientações para Entrega no GitHub  
-1. Crie um arquivo chamado: **Relatorio_Aula_12-03-2026.md**  
-2. Insira o conteúdo do relatório no arquivo.  
-3. Faça o commit no repositório da disciplina com a mensagem:  
-   `"Entrega Relatório Aula 09/04/2026 - Pensamento Computacional nas Universidades"`  
